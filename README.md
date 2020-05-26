@@ -1,10 +1,6 @@
 ![angular-nest](https://user-images.githubusercontent.com/7531596/82949797-813e0600-9fa4-11ea-8eaa-3101c3f0b092.png)
 # Angular + Nest.js
 
-## Description
-
-This project provides an Angular 9 + Nest.js starter.
-
 ## Features    
 ✅ Angular 9+   
 ✅ Nest.js 7+  
