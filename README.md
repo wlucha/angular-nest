@@ -1,18 +1,28 @@
 ![angular-nest](https://user-images.githubusercontent.com/7531596/82949797-813e0600-9fa4-11ea-8eaa-3101c3f0b092.png)
-# Angular + NestJS
-Angular 13 + NestJS 8 starter project  
-by [@wlucha](https://github.com/wlucha)
+> Angular 13 + NestJS 8 starter project  
+
+This is a Angular 13 + NestJS 8 boilerplate project to start your 
+
+<hr />
 
 ![Angular13](https://img.shields.io/badge/Angular-13-brightgreen)
 ![NestJS8](https://img.shields.io/badge/NestJS-8-brightgreen)
 [![Build](https://api.travis-ci.org/wlucha/angular-nest.svg?branch=master)](https://travis-ci.org/github/wlucha/angular-nest)
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wlucha_angular-nest-nx&metric=alert_status)](https://sonarcloud.io/dashboard?id=wlucha_angular-nest-nx)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wlucha_angular-nest-nx&metric=alert_status)](https://sonarcloud.io/dashboard?id=wlucha_angular-nest-nx)  
 
 ## Features    
-✅ Angular 13+   
-✅ NestJS 8+  
-✅ Jest Unit Testing  
+✅ Angular 13+<br />
+  - a JS frontend framework created by Google<br />
+  - https://angular.io/<br />
+
+✅ NestJS 8+<br />
+  - a JS backend framework providing architecture out of the box with a syntax similar to Angular<br />
+  - https://nestjs.com/<br />
+
+✅ Jest Unit Testing<br />
+  - a delightful JavaScript Testing Framework with a focus on simplicity<br />
+  - https://jestjs.io/<br />
 
 ## Demo
 - [StackBlitz Demo](https://stackblitz.com/github/wlucha/angular-nest)
