@@ -1,11 +1,11 @@
 ![angular-nest](https://user-images.githubusercontent.com/7531596/82949797-813e0600-9fa4-11ea-8eaa-3101c3f0b092.png)
-# Angular + Nest.js
-Angular 9 + Nest 7 starter project  
+# Angular + NestJS
+Angular 13 + NestJS 8 starter project  
 by [@wlucha](https://github.com/wlucha)
 
 ## Features    
-✅ Angular 9+   
-✅ Nest.js 7+  
+✅ Angular 13+   
+✅ NestJS 8+  
 ✅ Jest Unit Testing  
 
 ## Demo
@@ -59,7 +59,7 @@ $ npm run test:cov
 ## License
 MIT License
 
-Copyright (c) 2020 Wilfried Lucha
+Copyright (c) 2022 Wilfried Lucha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
