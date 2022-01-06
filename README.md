@@ -3,6 +3,12 @@
 Angular 13 + NestJS 8 starter project  
 by [@wlucha](https://github.com/wlucha)
 
+![Angular13](https://img.shields.io/badge/Angular-13-brightgreen)
+![NestJS8](https://img.shields.io/badge/NestJS-8-brightgreen)
+[![Build](https://api.travis-ci.org/wlucha/angular-nest.svg?branch=master)](https://travis-ci.org/github/wlucha/angular-nest)
+[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wlucha_angular-nest-nx&metric=alert_status)](https://sonarcloud.io/dashboard?id=wlucha_angular-nest-nx)
+
 ## Features    
 ✅ Angular 13+   
 ✅ NestJS 8+  
