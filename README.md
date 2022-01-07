@@ -24,6 +24,10 @@ This is a Angular 13 + NestJS 8 boilerplate to easily start your own frontend + 
   - a delightful JavaScript Testing Framework with a focus on simplicity<br />
   - https://jestjs.io/<br />
 
+✅ Ngx-admin<br />
+  - Customizable admin dashboard template based on Angular 13+<br />
+  - https://github.com/akveo/ngx-admin<br />
+
 ## Demo
 - [StackBlitz Demo](https://stackblitz.com/github/wlucha/angular-nest)
 
