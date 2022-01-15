@@ -1,10 +1,36 @@
 {
   "name": "angular-nest",
   "version": "0.0.1",
-  "description": "",
-  "author": "wlucha",
-  "private": true,
+  "description": "Angular 13 (ngx-admin) + NestJS 8 boilerplate to easily start your own frontend + backend project",
+  "author": "Wilfried Lucha <wilfried@lucha.at>",
+  "homepage": "https://lucha.at",
   "license": "MIT",
+  "contributors": [
+    "Wilfried Lucha <wilfried@lucha.at>"
+  ],
+  "keywords": [
+    "angular",
+    "angular 13",
+    "angular-nest",
+    "angular nest",
+    "angular-starter",
+    "angular starter",
+    "angular-boilerplate",
+    "angular boilerplate",
+    "angular-template",
+    "angular template",
+    "nest",
+    "nest js",
+    "nestjs",
+    "nest-js",
+    "eslint"
+  ],
+  "repository": "https://github.com/wlucha/angular-nest.git",
+  "bugs": {
+    "url": "https://github.com/wlucha/angular-nest/issues"
+  },
+  "readme": "https://github.com/wlucha/angular-nest/blob/master/README.md",
+  "private": false,
   "scripts": {
     "prebuild": "rimraf dist",
     "ng": "ng",
