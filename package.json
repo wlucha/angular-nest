@@ -66,7 +66,7 @@
     "@nebular/theme": "9.0.0",
     "@nestjs/common": "^8.2.4",
     "@nestjs/core": "^8.2.4",
-    "@nestjs/platform-express": "^8.2.4",
+    "@nestjs/platform-express": "^8.4.7",
     "@nestjs/swagger": "^5.1.5",
     "bootstrap": "4.3.1",
     "classlist.js": "1.1.20150312",
